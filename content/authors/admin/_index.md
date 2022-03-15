@@ -14,7 +14,7 @@ organizations:
   url: https://www.ru.nl/bsi/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in computational models of learning and decision-making, food choice, and Bayesian statistics
+bio: My research interests are computational models of learning and decision-making, food choice, and Bayesian statistics
 
 # Interests to show in About widget
 interests:
