@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huaiyu Liu
+title: Huaiyu Liu | 刘怀瑜
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,10 +11,10 @@ role: Ph.D. candidate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Behavioral Science Institute (BSI), Radboud University, the Netherlands
-  url: https://www.ru.nl/bsi/
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are computational models of learning and decision-making, food choice, and Bayesian statistics
+bio: Interested in computational models of learning and decision-making, food choice, and Bayesian statistics.
 
 # Interests to show in About widget
 interests:
@@ -74,8 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Interested in computational models of learning and decision-making, food choice, and Bayesian statistics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
